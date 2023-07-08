@@ -1,0 +1,3 @@
+([('hello',
+   '/Users/Deepee/Desktop/Desktop/LEARN/Intro to tkinter - C/exe/dist/hello',
+   'EXECUTABLE')],)
