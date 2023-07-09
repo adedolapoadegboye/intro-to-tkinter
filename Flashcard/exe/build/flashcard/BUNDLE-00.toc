@@ -1,0 +1,4 @@
+([('flashcard',
+   '/Users/Deepee/Desktop/Desktop/LEARN/Intro to tkinter - '
+   'C/Flashcard/exe/dist/flashcard',
+   'EXECUTABLE')],)
